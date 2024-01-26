@@ -1,0 +1,24 @@
+Name,SMILES
+AMG650,CC1=CC(=NC(=N1)N2CCC(CC2)(F)F)NC(=O)C3=C(C=C(C=C3)NS(=O)(=O)CCO)N4CCC5(CC5)CC4
+BB_35,c1(c(ccc(c1)NS(CCO)(=O)=O)C(Nc1cccc(c1)N1CCC(CC1)(F)F)=O)N1CCC2(CC1)CC2
+BB_40,c12ccc(cc1C1(CN2C(c2cc(ccc2)S(NC(C)(C)C)(=O)=O)=O)CCC2(CC1)CC2)NS(C)(=O)=O
+BB_36,c1(c(ncc(n1)NC(CO)(C)C)C(Nc1cccc(n1)S(NC(C)(C)C)(=O)=O)=O)N1CCC2(CC1)CC2
+BB_37,c12c(cc(cc1N1CCC3(CC1)CC3)NS(CCO)(=O)=O)ncnc2Nc1cc(cc(c1)N1CCC(CC1)(F)F)C
+BB_42,c1(ccc(cc1N1CCC2(CC1)CC2)NS(CCO)(=O)=O)-c1sc2c(n1)cccc2N1CCC(CC1)(F)F
+BB_38,c1(ccc(cc1C1CCC2(CC1)CC2)NS(CCO)(=O)=O)C(Nc1cc(nc(n1)N1CCC(CC1)(F)F)C)=O
+BB_43,c1(ccc(cc1N1CCC2(CC1)CC2)NS(CCO)(=O)=O)-c1cc(ncc1)N1CCC(CC1)(F)F
+BB_39,c12c(cc(cc1N1CCC3(CC1)CC3)NS(CCO)(=O)=O)ncnc2Nc1cccc(c1)C
+BB_41,c1(ccc(cc1N1CCC2(CC1)CC2)NS(CCO)(=O)=O)-c1nc2c(s1)cccc2N1CCC(CC1)(F)F
+AGAN 245-df-2-CN,Cc1ccc(NC(=O)c2c(F)c(CS(=O)(=O)c3ccccc3)ccc2C(F)(F)F)c(c1)-c1ccccc1
+6,O=C(NC1=CC=CC(C2=CC=CC=C2)=C1)C3=C(F)C(CS(C4=CC=CC=C4)(=O)=O)=CC=C3C(F)(F)F
+BB_30,CN(C(C1=CC=C(C)C=C1)=O)C2=CC=C(C(F)(F)F)C=C2NS(C3=CC=C(C4CCCCC4)C=C3)(=O)=O
+5,O=C(NC1=CC=CC=C1C=C)C2=C(F)C(CS(C3=CC=CC=C3)(=O)=O)=CC=C2C(F)(F)F
+BB_9,CN(C)S(C1=CC(C)=C(OCC2=CC(CN(C)S(=O)(C3=CC=C(C(C)(C)C)C=C3)=O)=CC=C2)C=C1)(=O)=O
+AGAN406,Cc1cc(S(=O)(=O)N(C)C)ccc1OCCCCCCN(C)S(=O)(=O)c1ccc(C(C)(C)C)cc1
+BB_44,c1(ccc(cc1N1CCC2(CC1)CC2)NS(CCO)(=O)=O)-c1ncccc1N1CCC(CC1)(F)F
+AGAN230,[O]C(=O)c1[c][c][c]c(-c2[c][c][c][c]c2S[C][C]2[C]N(C(=O)[C]3[C][C]3)[C][C]N2C(=O)c2[c][c][c][c][c]2)[c]1
+4,O=C(NCC1=CC=CC=C1)C2=C(F)C(CS(C3=CC=CC=C3)(=O)=O)=CC=C2C(F)(F)F
+AGAN245-df-15-CN,NC(=O)Cc1ccc(NC(=O)c2c(F)c(CS(=O)(=O)c3ccccc3)ccc2C(F)(F)F)c(c1)-c1ccccc1
+AGAN245-df-11-CN,NC(=O)c1ccc(NC(=O)c2c(F)c(CS(=O)(=O)c3ccccc3)ccc2C(F)(F)F)c(c1)-c1ccccc1
+AGAN-407,CN(C(CCC1=NC(C=C(S(N2CCOCC2)(=O)=O)C=C3)=C3N1CCCC)=O)CC4=C(F)C=C(Cl)C(N)=C4
+AGAN-209,[O][C][C][C]1[C]N(C(=O)c2[c][c][c][c][c]2)[C][C]N1[C](Oc1[c][c][c]c2c1[C]=[C]c1[c][c][c][c]c1[C]2)[C]1[C][C]1

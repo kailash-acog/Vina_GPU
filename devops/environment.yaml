@@ -1,0 +1,21 @@
+name: vina_gpu
+channels:
+  - nvidia
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.10
+  - cudatoolkit=11.5 
+  - pytorch
+  - rdkit
+  - openbabel  
+  - numpy
+  - pandas
+  - scipy
+  - pip
+  - pip:
+      - jupyterlab
+      - prody
+      - meeko
+      - rich
